@@ -1,1 +1,1 @@
-static
+my blog static
